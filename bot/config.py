@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "2059876224:AAEB8QPPfB2YEKBaCXRwP2h8iHB4qdvO2Wk"
+    APP_ID = "13358574"
+    API_HASH = "e0a2ecc056f1c31e4588a96ebd2bbc98"
+    DATABASE_URL = "postgres://elgvfewkeytohx:4360258909478"
+    SUDO_USERS = "719162993" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
